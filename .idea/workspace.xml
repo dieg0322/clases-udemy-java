@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9868d25-3eb7-4d1a-8bff-0ef81c906f40" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CicloWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/udemy-clases-java.iml" beforeDir="false" />
+    <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/AplicatioFitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Calificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/DiaDeSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/EstacionDelAnio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/MayorDeDosNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/MesDelAño.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/ReservaHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/SistemaEnvios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,55 +31,54 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="34N8AmOYQm8ZoLLN8XqbLq9Xr98" />
+  <component name="ProjectId" id="34NHsrqk3heeQxyLVErdDssLF5S" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CicloDoWhile.executor": "Run",
     "Application.CicloWhile.executor": "Run",
-    "Application.Prueba.executor": "Run",
-    "Application.q2321341234.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.NumerosImpares.executor": "Run",
+    "Application.NumerosInversos.executor": "Run",
+    "Application.NumerosPares.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/clases-udemy-java",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/clases-udemy-java/udemy-java/src/com/udemy/clases",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "onboarding.tips.debug.path": "C:/Users/USER/IdeaProjects/clases-udemy-java/udemy-java/src/Main.java",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CicloWhile">
-    <configuration name="CicloWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="F:/Program Files/Java/jdk-21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloWhile" />
-      <module name="udemy-clases-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.Prueba" />
-      <module name="udemy-clases-java" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\clases-udemy-java\udemy-java\src\com\udemy\clases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\clases-udemy-java\udemy-java\src\com\udemy\clases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumerosImpares">
+    <configuration name="CicloDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloDoWhile" />
+      <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.clases.*" />
@@ -81,20 +89,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="clases-udemy-java" />
+    <configuration name="CicloWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloWhile" />
+      <module name="udemy-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.CicloWhile" />
-      <item itemvalue="Application.Prueba" />
-    </list>
+    <configuration name="NumerosImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.NumerosImpares" />
+      <module name="udemy-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosInversos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.NumerosInversos" />
+      <module name="udemy-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.NumerosPares" />
+      <module name="udemy-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumerosImpares" />
+        <item itemvalue="Application.NumerosInversos" />
+        <item itemvalue="Application.CicloDoWhile" />
+        <item itemvalue="Application.NumerosPares" />
         <item itemvalue="Application.CicloWhile" />
-        <item itemvalue="Application.Prueba" />
       </list>
     </recent_temporary>
   </component>
@@ -108,30 +155,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9868d25-3eb7-4d1a-8bff-0ef81c906f40" name="Changes" comment="" />
-      <created>1761042671384</created>
+      <changelist id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="" />
+      <created>1761047322610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761042671384</updated>
-      <workItem from="1761042672503" duration="2712000" />
-      <workItem from="1761046988538" duration="91000" />
-      <workItem from="1761047099150" duration="155000" />
-      <workItem from="1761047274488" duration="48000" />
+      <updated>1761047322610</updated>
+      <workItem from="1761047323692" duration="355000" />
+      <workItem from="1761128033758" duration="5065000" />
     </task>
+    <task id="LOCAL-00001" summary="ciclo do-while">
+      <option name="closed" value="true" />
+      <created>1761131811938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761131811938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/q2321341234.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ciclo do-while" />
+    <option name="LAST_COMMIT_MESSAGE" value="ciclo do-while" />
   </component>
 </project>
