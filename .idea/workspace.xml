@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CalcularAreaRectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Descuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/GeneradorDeCodigo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/GeneradorEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/ParqueDiversiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Precedencial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/SistemaBancario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloForNumerosPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloWhileSuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CicloDoWhile.executor": "Run",
+    "Application.CicloFor.executor": "Run",
+    "Application.CicloForNumerosPares.executor": "Run",
     "Application.CicloWhile.executor": "Run",
+    "Application.CicloWhileSuma.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.NumerosImpares.executor": "Run",
     "Application.NumerosInversos.executor": "Run",
@@ -71,10 +69,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\IdeaProjects\clases-udemy-java\udemy-java\src\com\udemy\clases" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.udemy.clases" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.NumerosImpares">
-    <configuration name="CicloDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloDoWhile" />
+  <component name="RunManager" selected="Application.CicloWhileSuma">
+    <configuration name="CicloFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloFor" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
@@ -86,9 +87,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CicloWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloWhile" />
+    <configuration name="CicloForNumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloForNumerosPares" />
       <module name="udemy-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CicloWhileSuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloWhileSuma" />
+      <module name="udemy-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,26 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.NumerosPares" />
-      <module name="udemy-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.udemy.clases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CicloWhileSuma" />
+        <item itemvalue="Application.CicloFor" />
+        <item itemvalue="Application.CicloForNumerosPares" />
         <item itemvalue="Application.NumerosImpares" />
         <item itemvalue="Application.NumerosInversos" />
-        <item itemvalue="Application.CicloDoWhile" />
-        <item itemvalue="Application.NumerosPares" />
-        <item itemvalue="Application.CicloWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +166,7 @@
       <updated>1761047322610</updated>
       <workItem from="1761047323692" duration="355000" />
       <workItem from="1761128033758" duration="5065000" />
-      <workItem from="1761559971569" duration="606000" />
+      <workItem from="1761559971569" duration="4293000" />
     </task>
     <task id="LOCAL-00001" summary="ciclo do-while">
       <option name="closed" value="true" />
