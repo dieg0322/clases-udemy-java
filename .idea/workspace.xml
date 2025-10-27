@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/AplicatioFitness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Calificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/DiaDeSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/EstacionDelAnio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/MayorDeDosNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/MesDelAño.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/ReservaHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/SistemaEnvios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CalcularAreaRectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Descuento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/GeneradorDeCodigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/GeneradorEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/ParqueDiversiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/Precedencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/SistemaBancario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -56,7 +53,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/IdeaProjects/clases-udemy-java/udemy-java/src/com/udemy/clases",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/clases-udemy-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -162,6 +159,7 @@
       <updated>1761047322610</updated>
       <workItem from="1761047323692" duration="355000" />
       <workItem from="1761128033758" duration="5065000" />
+      <workItem from="1761559971569" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="ciclo do-while">
       <option name="closed" value="true" />
