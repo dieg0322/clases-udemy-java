@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloForNumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/CicloWhileSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/SitemaCuentas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,7 @@
     "Application.NumerosImpares.executor": "Run",
     "Application.NumerosInversos.executor": "Run",
     "Application.NumerosPares.executor": "Run",
+    "Application.SitemaCuentas.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -73,7 +72,7 @@
       <recent name="com.udemy.clases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CicloWhileSuma">
+  <component name="RunManager" selected="Application.SitemaCuentas">
     <configuration name="CicloFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloFor" />
       <module name="udemy-java" />
@@ -126,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumerosInversos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.NumerosInversos" />
+    <configuration name="SitemaCuentas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.SitemaCuentas" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SitemaCuentas" />
         <item itemvalue="Application.CicloWhileSuma" />
         <item itemvalue="Application.CicloFor" />
         <item itemvalue="Application.CicloForNumerosPares" />
         <item itemvalue="Application.NumerosImpares" />
-        <item itemvalue="Application.NumerosInversos" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,10 @@
       <updated>1761047322610</updated>
       <workItem from="1761047323692" duration="355000" />
       <workItem from="1761128033758" duration="5065000" />
-      <workItem from="1761559971569" duration="4293000" />
+      <workItem from="1761559971569" duration="5792000" />
+      <workItem from="1761845013258" duration="1784000" />
+      <workItem from="1762089539052" duration="2000" />
+      <workItem from="1762424668829" duration="2003000" />
     </task>
     <task id="LOCAL-00001" summary="ciclo do-while">
       <option name="closed" value="true" />
