@@ -15,14 +15,6 @@ public class SistemaEnvios {
         System.out.print("Introduzca el peso del paquete: ");
         Double peso = scanner.nextDouble();
 
-
-        /**
-        if(destino.equals("nacional"))
-            System.out.println("La tarifa es de: "+ENVIO_NACIONAL * peso);
-        else if (destino.equals("internacional"))
-            System.out.println("La tarifa es de: "+ENVIO_INTERNACIONAL * peso);
-        */
-
         Double costoEnvio = switch (destino){
             case "nacional" -> peso * ENVIO_NACIONAL;
             case "internacional" -> peso * ENVIO_INTERNACIONAL;
