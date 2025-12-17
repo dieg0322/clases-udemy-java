@@ -1,3 +1,5 @@
+package com.udemy.clases;
+
 import java.util.Scanner;
 
 public class DibujarTriangulo {

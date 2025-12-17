@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
-      <change afterPath="$PROJECT_DIR$/src/DibujarTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/PalabraBrakeContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DibujarTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/udemy/clases/DibujarTriangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <recent name="com.udemy.clases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DibujarTriangulo">
+  <component name="RunManager" selected="Application.PalabraBrakeContinue">
     <configuration name="Adivinanzas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.clases.Adivinanzas" />
       <module name="udemy-java" />
@@ -106,14 +107,14 @@
       </method>
     </configuration>
     <configuration name="DibujarTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DibujarTriangulo" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.DibujarTriangulo" />
       <module name="udemy-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemaEnvios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.SistemaEnvios" />
+    <configuration name="PalabraBrakeContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.PalabraBrakeContinue" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalabraBrakeContinue" />
         <item itemvalue="Application.DibujarTriangulo" />
         <item itemvalue="Application.Adivinanzas" />
         <item itemvalue="Application.ValidacionPassword" />
         <item itemvalue="Application.CicloDoWhile" />
-        <item itemvalue="Application.SistemaEnvios" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,7 @@
       <workItem from="1765449491618" duration="2845000" />
       <workItem from="1765594777399" duration="1608000" />
       <workItem from="1765854505572" duration="1325000" />
-      <workItem from="1765927658952" duration="2281000" />
+      <workItem from="1765927658952" duration="6055000" />
     </task>
     <task id="LOCAL-00001" summary="ciclo do-while">
       <option name="closed" value="true" />
@@ -196,26 +197,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ciclo do-while" />
     <option name="LAST_COMMIT_MESSAGE" value="ciclo do-while" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DibujarTriangulo.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DibujarTriangulo.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DibujarTriangulo.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
