@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f5f4c8-3071-4576-a1c5-4b8dd51d8de9" name="Changes" comment="ciclo do-while">
-      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/PalabraBrakeContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/udemy/clases/arreglos/Arreglos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DibujarTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/udemy/clases/DibujarTriangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Adivinanzas.executor": "Run",
+    "Application.Arreglos.executor": "Run",
     "Application.CajeroAutomatico.executor": "Run",
     "Application.Calculadora.executor": "Run",
     "Application.CicloDoWhile.executor": "Run",
@@ -47,6 +47,7 @@
     "Application.NumerosImpares.executor": "Run",
     "Application.NumerosInversos.executor": "Run",
     "Application.NumerosPares.executor": "Run",
+    "Application.PalabraBrakeContinue.executor": "Run",
     "Application.SistemaEnvios.executor": "Run",
     "Application.SitemaCuentas.executor": "Run",
     "Application.ValidacionPassword.executor": "Run",
@@ -79,13 +80,13 @@
       <recent name="com.udemy.clases" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalabraBrakeContinue">
+  <component name="RunManager" selected="Application.Arreglos">
     <configuration name="Adivinanzas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.Adivinanzas" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.calculos.Adivinanzas" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="PATTERN" value="com.udemy.clases.ciclos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CicloDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.CicloDoWhile" />
+    <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.arreglos.Arreglos" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="PATTERN" value="com.udemy.clases.arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,18 +108,18 @@
       </method>
     </configuration>
     <configuration name="DibujarTriangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.DibujarTriangulo" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.calculos.DibujarTriangulo" />
       <module name="udemy-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PalabraBrakeContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.PalabraBrakeContinue" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.calculos.PalabraBrakeContinue" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="PATTERN" value="com.udemy.clases.ciclos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
       </method>
     </configuration>
     <configuration name="ValidacionPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.ValidacionPassword" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.clases.calculos.ValidacionPassword" />
       <module name="udemy-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.clases.*" />
+          <option name="PATTERN" value="com.udemy.clases.ciclos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arreglos" />
         <item itemvalue="Application.PalabraBrakeContinue" />
         <item itemvalue="Application.DibujarTriangulo" />
         <item itemvalue="Application.Adivinanzas" />
         <item itemvalue="Application.ValidacionPassword" />
-        <item itemvalue="Application.CicloDoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,8 @@
       <workItem from="1765449491618" duration="2845000" />
       <workItem from="1765594777399" duration="1608000" />
       <workItem from="1765854505572" duration="1325000" />
-      <workItem from="1765927658952" duration="6055000" />
+      <workItem from="1765927658952" duration="6888000" />
+      <workItem from="1766139194710" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="ciclo do-while">
       <option name="closed" value="true" />
